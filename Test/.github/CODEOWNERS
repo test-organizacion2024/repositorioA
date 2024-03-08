@@ -1,0 +1,5 @@
+# Este es un ejemplo de archivo CODEOWNERS
+
+* @Lizbeth-Mercedes
+
+/docs @docs-owner
